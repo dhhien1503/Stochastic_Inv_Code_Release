@@ -2,9 +2,9 @@
 
 Code to reproduce the results of
 
-> N. T. Tung, N. D. Lam, T. Q. Minh, P. T. Cuong, H. Q. Dat, D. H. Hien,
-> *Stochastic seismic inversion using large number of pseudo wells and convolutional neural
-> network technique*, submitted to GEOPHYSICS.
+> N. T. Tung, N. D. Lam, T. Q. Minh, P. T. Cuong, P. T. H. Ha, H. Q. Dat, D. H. Hien,
+> *Stochastic seismic inversion using a large number of pseudo-wells and convolutional neural
+> networks*, submitted to Computers & Geosciences.
 
 Two inversions of one 2D seismic line, using extended elastic impedance (EEI) at
 χ = −60, −7.5, 25 and 45°. Both use the same pseudo-well prior: Markov-chain facies
