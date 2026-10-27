@@ -161,6 +161,14 @@ These results can be checked without well data:
 * the facies confusion matrices on the training and test pseudo-wells;
 * the ODiSI and CNN sections.
 
+## How to cite
+
+If you use this code, please cite the paper:
+
+> N. T. Tung, N. D. Lam, T. Q. Minh, P. T. Cuong, P. T. H. Ha, H. Q. Dat, D. H. Hien,
+> *Stochastic seismic inversion using a large number of pseudo-wells and convolutional neural
+> networks*, submitted to Computers & Geosciences.
+
 ## License
 
 The code is released under the MIT License (`LICENSE`). The data in `Data/` are provided only
